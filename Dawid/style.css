@@ -1,3 +1,17 @@
 h {
-    margin: 100px;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    font-size: 20px;
+}
+h2 {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+a {
+    text-decoration: solid;
+    color: inherit;
+    font-family: Arial, Helvetica, sans-serif;
 }
