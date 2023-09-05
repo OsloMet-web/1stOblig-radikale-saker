@@ -1,14 +1,14 @@
 body{
     background-color: #D3D3D3;
 }
-h {
+header {
     display: block;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: solid;
     font-size: 10px;
 }
-h2 {
+h {
     display: block;
     text-align: center;
     font-size: 25px;
