@@ -1,3 +1,17 @@
 .flex {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.flex div {
+    padding-top: 5vh;
+    width: 40%;
+} 
+img {
+    max-width: 35vw;
+}
+
+* {
+    font-family: sans-serif;
 }
