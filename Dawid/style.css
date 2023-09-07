@@ -66,9 +66,11 @@ ul3{
 }
 li1{
     text-decoration: underline;
+    padding: 5%;
 }
 li2{
     text-decoration: underline;
+    padding: 5%;
 }
 #kart{
     display: block;
